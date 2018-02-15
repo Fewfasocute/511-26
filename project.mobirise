@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page8.html",
+    "currentPage": "page2.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1043,7 +1043,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"page4.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/3c3d602c7accb54a406fe70c7aa4f79d.gif",
+              "src": "@PROJECT_PATH@/assets/images/521a038c99efaddcd41e60426c6f6af5.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3378,7 +3378,7 @@
             "paddingBottom": 2,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/b2d98a3b83071c44e66d7de7d4c1fb92-2000x6595.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/b2d98a3b83071c44e66d7de7d4c1fb92-2000x65911.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3397,7 +3397,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/82a30e9bad863a90116c8460335103ed0.gif",
+              "src": "@PROJECT_PATH@/assets/images/82a30e9bad863a90116c8460335103ed6.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3413,7 +3413,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/5cc24107bc723aa0cd8dbe21ae22abd71.gif",
+              "src": "@PROJECT_PATH@/assets/images/5cc24107bc723aa0cd8dbe21ae22abd77.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3429,7 +3429,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2bc3986276acd49f0a829329fe9aa6002.gif",
+              "src": "@PROJECT_PATH@/assets/images/2bc3986276acd49f0a829329fe9aa6008.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3445,7 +3445,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/a642217aef361b2686fca3541c136b9e-600x3373.jpg",
+              "src": "@PROJECT_PATH@/assets/images/a642217aef361b2686fca3541c136b9e-600x3379.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3461,7 +3461,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ff4.gif",
+              "src": "@PROJECT_PATH@/assets/images/ff10.gif",
               "class": "card-img-top",
               "width": 600,
               "active": true,
